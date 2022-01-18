@@ -1,9 +1,16 @@
 .header {
-    padding: 50px 0;
-    color: #ffffff;
-    background-color: #101D42;
-    width: 100%;
-    text-align: center;
-    border-bottom: 10px solid #DB162F;
-    margin-bottom: 10px;
+  display: flex;
+  padding: 30px 0;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  height: 10%;
+  background-color: #719694;
+  width: 100%;
+  text-align: center;
+  border-bottom: 5px solid #ffffff;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 0 auto;
 }
